@@ -1,4 +1,4 @@
-# Unity VRM URP Toon Shader Template
+# UnityURPToonLitShader VRM Template
 
 ## Shader From
 https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
