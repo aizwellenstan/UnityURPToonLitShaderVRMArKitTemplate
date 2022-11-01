@@ -11,8 +11,8 @@ LiveCapture
 ## app
 https://apps.apple.com/us/app/unity-face-capture/id1544159771
 
-## VRM Model From
+## VRM モデル
 https://3d.nicovideo.jp/alicia/
 
-## Shader From
+## シェーダー
 https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
