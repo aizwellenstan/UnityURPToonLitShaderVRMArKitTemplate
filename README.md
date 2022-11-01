@@ -2,6 +2,9 @@
 
 <a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate/blob/master/AliciaPreview.gif" width="400"/></a>
 
+## チュートリアル
+https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137
+
 ## package
 LiveCapture
 
