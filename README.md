@@ -8,7 +8,7 @@ https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137
 ## Unity Package
 LiveCapture
 
-## app
+## iOS App
 https://apps.apple.com/us/app/unity-face-capture/id1544159771
 
 ## VRM モデル
