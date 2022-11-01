@@ -5,7 +5,7 @@
 ## チュートリアル
 https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137
 
-## package
+## Unity Package
 LiveCapture
 
 ## app
