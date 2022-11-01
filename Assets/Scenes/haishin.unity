@@ -402,7 +402,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1044815001}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 1.4, z: 0.5}
+  m_LocalPosition: {x: 0, y: 1.03, z: 0.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -650,7 +650,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1662669225051657050, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9396927
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1662669225051657050, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.x
@@ -662,11 +662,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1662669225051657050, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.3420201
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1662669225051657050, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 40
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2489956254453721780, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_DirtyAABB
@@ -740,9 +740,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3082836267628136371, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 36d02fba54f8d4247a5849ac95f1ce8e, type: 2}
     - target: {fileID: 3175903145971330807, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_EnabledChannels
-      value: 13
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3665865457381848111, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_DirtyAABB
@@ -914,7 +918,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6761648243274737792, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9396927
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6761648243274737792, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.x
@@ -926,11 +930,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6761648243274737792, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.3420201
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6761648243274737792, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -40
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7620922905622312041, guid: 03425cf4ab67db74092778cd94a36b78, type: 3}
       propertyPath: m_DirtyAABB

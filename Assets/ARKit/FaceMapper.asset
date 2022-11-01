@@ -596,7 +596,7 @@ MonoBehaviour:
   m_EyeAngleRange: {x: 45, y: 30}
   m_EyeAngleOffset: {x: 0, y: 0}
   m_EyeSmoothing: 0.1
-  m_HeadPosition: Root/Hips/Spine/Spine1/Spine2/Spine3/Neck/Neck1/Head
+  m_HeadPosition: Root
   m_HeadRotation: Root/Hips/Spine/Spine1/Spine2/Spine3/Neck/Neck1/Head
   m_HeadSmoothing: 0.1
   m_BlendShapeSmoothing: 0.1
